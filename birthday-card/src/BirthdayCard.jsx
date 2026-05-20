@@ -32,11 +32,11 @@ const BirthdayCard = () => {
               <h2 className="text-2xl font-bold text-gray-800 mt-2">Chúc Mừng Sinh Nhật!</h2>
             </div>
             <div className="text-center text-gray-600 space-y-2 text-sm leading-relaxed">
-              <p>Chúc bạn tuổi mới luôn ngập tràn niềm vui, nhiều sức khỏe và gặt hái được nhiều thành công mới.</p>
-              <p className="font-semibold text-pink-500">Mọi điều tốt đẹp nhất sẽ đến với bạn!</p>
+              <p>Đây là một tấm thiệp đơn giản từ một con chuột tặng cho con quạ chỉ để chúc con quạ sinh nhật zui zẻ. Tui sẽ thả 4 con chim ở đây ăn sinh nhật cùng bà :))</p>
+              <p className="font-semibold text-pink-500">Mỗi Ngày Zui Zẻ Háp Bi Háp Bi</p>
             </div>
             <div className="text-center">
-              <p className="text-xs text-gray-400">Từ người gửi với sự trân trọng</p>
+              <p className="text-xs text-gray-400">Từ con chuột sắp bị làm thành 7 món</p>
               <div className="mt-2 text-xl">🎂 ✨ ❤️</div>
             </div>
           </div>
