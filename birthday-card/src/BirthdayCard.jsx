@@ -21,8 +21,8 @@ const BirthdayCard = () => {
               Happy Birthday!
             </h1>
             <p className="text-pink-100 mt-2 text-sm font-medium">Click để mở thiệp</p>
-            <div className="absolute top-4 left-4 text-2xl opacity-60">🎈</div>
-            <div className="absolute bottom-4 right-4 text-2xl opacity-60">🎈</div>
+            {/* <div className="absolute top-4 left-4 text-2xl opacity-60">🎈</div>
+            <div className="absolute bottom-4 right-4 text-2xl opacity-60">🎈</div> */}
           </div>
 
           {/* Mặt trong */}
